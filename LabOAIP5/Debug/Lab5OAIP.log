@@ -1,0 +1,4 @@
+﻿  Lab5OAIP.cpp
+D:\Lab5OAIP\Lab5OAIP.cpp(185,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Lab5OAIP\Lab5OAIP.cpp(203,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab5OAIP.vcxproj -> D:\Lab5OAIP\Debug\Lab5OAIP.exe
