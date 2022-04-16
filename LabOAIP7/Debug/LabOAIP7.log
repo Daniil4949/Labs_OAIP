@@ -1,0 +1,4 @@
+﻿  LabOAIP7.cpp
+D:\LabOAIP7\LabOAIP7.cpp(137,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\LabOAIP7\LabOAIP7.cpp(158,23): warning C4018: <=: несоответствие типов со знаком и без знака
+  LabOAIP7.vcxproj -> D:\LabOAIP7\Debug\LabOAIP7.exe
