@@ -1,3 +1,0 @@
-﻿  labOAIP6.cpp
-D:\labOAIP6\labOAIP6.cpp(31,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  labOAIP6.vcxproj -> D:\labOAIP6\Debug\labOAIP6.exe
