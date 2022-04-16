@@ -1,0 +1,5 @@
+﻿  lab1-2.sem2.cpp
+D:\lab1-2.sem2\lab1-2.sem2\lab1-2.sem2.cpp(116,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\lab1-2.sem2\lab1-2.sem2\lab1-2.sem2.cpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\lab1-2.sem2\lab1-2.sem2\lab1-2.sem2.cpp(225,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab1-2.sem2.vcxproj -> D:\lab1-2.sem2\Debug\lab1-2.sem2.exe
